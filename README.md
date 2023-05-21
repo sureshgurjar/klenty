@@ -4,4 +4,4 @@ Technologies used are: html/css, sass, bootstrap, google fonts.
 
 Website link: https://sureshgurjar.github.io/klenty
 
-![My Remote Image](https://ibb.co/TqzHxMX)
+![My Remote Image](https://i.ibb.co/rfnZR2P/Klenty.jpg)
