@@ -3,3 +3,5 @@ This is a assignment project I had received from Klenty pvt ltd.
 Technologies used are: html/css, sass, bootstrap, google fonts.
 
 Website link: https://sureshgurjar.github.io/klenty
+
+![My Remote Image](https://ibb.co/TqzHxMX)
